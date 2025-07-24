@@ -6,13 +6,14 @@ I’m 17 years old and aspiring to major in Computer Science, with a strong and 
 
 ![Wave GIF](https://media1.tenor.com/m/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif) <br>
 
-## 🔧 Tech Projects
+## 🔧 Tech Project
 
 | Project | Screenshot |
 |---------|------------|
-| **GUI Game** | Screenshot link here |
+| **Figma Business Page** | <img width="583" height="697" alt="Screenshot 2025-07-24 at 2 22 54 PM" src="https://github.com/user-attachments/assets/d7e4f029-f551-4a4f-b04c-3e9d57f08eef" /> |
+<!--| **GUI Game** | Screenshot link here |
 | **Flappy Bird Game** | Screenshot link here |
-| **3rd** | Screenshot link here |
+| **3rd** | Screenshot link here | -->
 
 ---
 
