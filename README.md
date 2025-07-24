@@ -12,6 +12,7 @@ I’m 17 years old and aspiring to major in Computer Science, with a strong and 
 |---------|------------|
 | **Figma Business Page** | <img width="583" height="697" alt="Screenshot 2025-07-24 at 2 22 54 PM" src="https://github.com/user-attachments/assets/d7e4f029-f551-4a4f-b04c-3e9d57f08eef" /> |
 | **2x2 Plant Gallery** | <img width="1231" height="899" alt="Screenshot 2025-07-24 at 2 32 07 PM" src="https://github.com/user-attachments/assets/b0d2a4d3-c917-43c7-864a-8c64d056bdde" /> |
+| **Employee Profile Page** | <img width="1403" height="610" alt="Screenshot 2025-07-24 at 2 44 10 PM" src="https://github.com/user-attachments/assets/80b38e62-2a24-4a3b-b41b-1c8f0ac48011" /> |
 <!--| **GUI Game** | Screenshot link here |
 | **Flappy Bird Game** | Screenshot link here |
 | **3rd** | Screenshot link here | -->
